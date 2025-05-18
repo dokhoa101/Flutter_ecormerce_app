@@ -1,0 +1,2 @@
+C:/Users/PC/Downloads/NexaraCart-main/NexaraCart-main/client_side/nexara_cart/android/app/.cxx/Debug/3y4u5y6c/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/PC/Downloads/NexaraCart-main/NexaraCart-main/client_side/nexara_cart/android/app/.cxx/Debug/3y4u5y6c/x86_64/CMakeFiles/rebuild_cache.dir

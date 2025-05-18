@@ -1,0 +1,2 @@
+D:/backup/nexara_cart/android/app/.cxx/Debug/3v1z5t1p/x86/CMakeFiles/edit_cache.dir
+D:/backup/nexara_cart/android/app/.cxx/Debug/3v1z5t1p/x86/CMakeFiles/rebuild_cache.dir
