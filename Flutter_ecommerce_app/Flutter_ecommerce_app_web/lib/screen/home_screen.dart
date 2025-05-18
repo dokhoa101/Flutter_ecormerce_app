@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:animations/animations.dart';
 import 'package:flutter/material.dart';
-import 'package:nexara_cart/utility/constants.dart';
+import 'package:flutter_ecommerce_app/utility/constants.dart';
 
 import '../../../utility/app_data.dart';
 import '../../../widget/page_wrapper.dart';

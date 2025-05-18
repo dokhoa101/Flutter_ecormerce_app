@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nexara_cart/utility/app_color.dart';
+import 'package:flutter_ecommerce_app/utility/app_color.dart';
 
 class HorizontalList<T> extends StatelessWidget {
   final List<T>? items;

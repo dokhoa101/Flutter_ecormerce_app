@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:nexara_cart/utility/constants.dart';
+import 'package:flutter_ecommerce_app/utility/constants.dart';
 
 import '../../../core/data/data_provider.dart';
 import '../../../models/product.dart';

@@ -5,8 +5,8 @@ import 'package:flutter_cart/flutter_cart.dart';
 import 'package:flutter_stripe/flutter_stripe.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:nexara_cart/models/api_response.dart';
-import 'package:nexara_cart/utility/utility_extention.dart';
+import 'package:flutter_ecommerce_app/models/api_response.dart';
+import 'package:flutter_ecommerce_app/utility/utility_extention.dart';
 import 'package:razorpay_flutter/razorpay_flutter.dart';
 
 import '../../../models/coupon.dart';

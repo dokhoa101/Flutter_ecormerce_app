@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_cart/flutter_cart.dart';
-import 'package:nexara_cart/utility/snack_bar_helper.dart';
-import 'package:nexara_cart/utility/utility_extention.dart';
+import 'package:flutter_ecommerce_app/utility/snack_bar_helper.dart';
+import 'package:flutter_ecommerce_app/utility/utility_extention.dart';
 
 import '../../../core/data/data_provider.dart';
 import '../../../models/product.dart';

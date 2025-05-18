@@ -5,7 +5,7 @@ import 'package:email_validator/email_validator.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:nexara_cart/utility/snack_bar_helper.dart';
+import 'package:flutter_ecommerce_app/utility/snack_bar_helper.dart';
 import 'package:http/http.dart' as http;
 import '../../../core/data/data_provider.dart';
 import '../../../models/api_response.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:nexara_cart/screen/auth_screen/login_screen.dart';
-import 'package:nexara_cart/utility/extensions.dart';
+import 'package:flutter_ecommerce_app/screen/auth_screen/login_screen.dart';
+import 'package:flutter_ecommerce_app/utility/extensions.dart';
 
 import '../../utility/functions.dart';
 import '../../utility/snack_bar_helper.dart';

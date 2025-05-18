@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nexara_cart/utility/extensions.dart';
+import 'package:flutter_ecommerce_app/utility/extensions.dart';
 import 'package:provider/provider.dart';
 
 import '../../models/brand.dart';
@@ -76,8 +76,7 @@ class ProductByCategoryScreen extends StatelessWidget {
                             },
                           ),
                           Padding(
-                            padding:
-                                const EdgeInsets.symmetric(horizontal: 16),
+                            padding: const EdgeInsets.symmetric(horizontal: 16),
                             child: Row(
                               children: [
                                 Expanded(
@@ -108,8 +107,7 @@ class ProductByCategoryScreen extends StatelessWidget {
                                         hintText: 'Filter By Brands',
                                         items: proByCatProvider.brands,
                                         onSelectionChanged: (val) {
-                                          proByCatProvider.selectedBrands =
-                                              val;
+                                          proByCatProvider.selectedBrands = val;
                                           context.productByCategoryProvider
                                               .filterProductByBrand();
                                           proByCatProvider.updateUI();

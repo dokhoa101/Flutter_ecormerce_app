@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_cart/model/cart_model.dart';
-import 'package:nexara_cart/utility/extensions.dart';
-import 'package:nexara_cart/utility/functions.dart';
+import 'package:flutter_ecommerce_app/utility/extensions.dart';
+import 'package:flutter_ecommerce_app/utility/functions.dart';
 
 import '../../../utility/app_color.dart';
 import '../../../utility/constants.dart';

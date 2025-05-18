@@ -1,8 +1,8 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:nexara_cart/utility/extensions.dart';
-import 'package:nexara_cart/utility/functions.dart';
+import 'package:flutter_ecommerce_app/utility/extensions.dart';
+import 'package:flutter_ecommerce_app/utility/functions.dart';
 import 'package:provider/provider.dart';
 import 'package:get/get.dart';
 

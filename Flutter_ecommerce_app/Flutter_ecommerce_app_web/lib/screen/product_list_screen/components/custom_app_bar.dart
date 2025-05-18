@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:nexara_cart/utility/extensions.dart';
+import 'package:flutter_ecommerce_app/utility/extensions.dart';
 
 import '../../../models/user.dart';
 import '../../../utility/constants.dart';

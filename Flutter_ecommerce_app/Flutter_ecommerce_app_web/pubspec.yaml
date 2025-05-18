@@ -1,5 +1,5 @@
-name: nexara_cart
-description: "E-Commerce app built in flutter using GetX."
+name: flutter_ecommerce_app
+description: "E-Commerce app built in flutter ."
 
 publish_to: 'none'
 

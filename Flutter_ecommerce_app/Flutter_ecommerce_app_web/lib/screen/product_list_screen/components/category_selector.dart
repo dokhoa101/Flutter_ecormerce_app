@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nexara_cart/utility/constants.dart';
+import 'package:flutter_ecommerce_app/utility/constants.dart';
 
 import '../../../models/category.dart';
 import '../../../utility/animation/open_container_wrapper.dart';

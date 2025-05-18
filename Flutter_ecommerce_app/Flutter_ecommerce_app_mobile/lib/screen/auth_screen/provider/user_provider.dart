@@ -5,7 +5,7 @@ import 'package:email_validator/email_validator.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:nexara_cart/utility/snack_bar_helper.dart';
+import 'package:flutter_ecommerce_app/utility/snack_bar_helper.dart';
 import 'dart:io';
 import 'package:http_parser/http_parser.dart';
 
